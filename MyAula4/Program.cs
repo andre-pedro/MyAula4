@@ -10,6 +10,7 @@ namespace MyAula4
     {
         static void Main(string[] args)
         {
+            //This array empty, HEAP
         }
     }
 }
